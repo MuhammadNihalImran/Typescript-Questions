@@ -13,6 +13,6 @@ console.log(16 / 2 );
 // question 9 
 // my name is Nihal. Date on 19-2-2024 
 // how to use varible into other varible
-let favoriteNamber1 = "23"
-let message2 =`${favoriteNamber1} number is my favorite number`
+let favoriteNamber1:number = 23;
+let message2:string =`${favoriteNamber1} number is my favorite number`
 console.log(message2);
